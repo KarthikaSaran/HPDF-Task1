@@ -23,7 +23,7 @@ After starting the server using the command npm start , development server start
 ```
 http://localhost:3000/
 ```
-This code gives the home page run as such. For the search page , replace '<App/>' in line 7 in index.js file to '<Search/>' and rerun the development server.
+This code gives the home page run as such. For the search page , replace App/ in line 7 in index.js file to Search/ and rerun the development server.
 
 ```
 http://localhost:3000/
